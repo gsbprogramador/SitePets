@@ -5,11 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" type="text/css" href="style.css">
     <title>PeludosePerdidos</title>
-    <link rel="icon" href="img/favicon.png" sizes="16x16" type="image/png">
+    <link rel="icon" href="favicon.png" sizes="16x16" type="image/png">
 </head>
 <body>
     <header class="cabeçalho">
-        <img class="logo" src="img/logopet.png" alt="PeludosePerdidos">
+        <img class="logo" src="logopet.png" alt="PeludosePerdidos">
         <h1>Peludos e Perdidos</h1>
     </header>
     <header>
@@ -25,10 +25,10 @@
         </strong>
     </header>
     <div class="banner">
-        <a href="https://www.petlove.com.br/" target="_blank"><img src="img/Dia das Pets.png" alt="bannerdiadopets"></a>
+        <a href="https://www.petlove.com.br/" target="_blank"><img src="Dia das Pets.png" alt="bannerdiadopets"></a>
     </div> 
     <div class="banner">
-        <a href="https://saude.petlove.com.br/" target="_blank"><img src="img/banner2.jpeg" alt="bannerpromoção"></a>
+        <a href="https://saude.petlove.com.br/" target="_blank"><img src="banner2.jpeg" alt="bannerpromoção"></a>
     </div>  
     
         
