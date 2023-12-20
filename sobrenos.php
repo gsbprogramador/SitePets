@@ -4,13 +4,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" type="text/css" href="style.css">
-    <link rel="icon" href="img/favicon.png" sizes="16x16" type="image/png">
+    <link rel="icon" href="favicon.png" sizes="16x16" type="image/png">
     <title>PeludosePerdidos</title>
 </head>
 <body>
     <header class="cabeçalho">
-        <img class="logo" src="img/logopet.png" alt="PeludosePerdidos">
-        <ims class="sobrenos" src="img/sobrenos.png" alt="sobrenos peludos e perdidos">
+        <img class="logo" src="logopet.png" alt="PeludosePerdidos">
+        <ims class="sobrenos" src="sobrenos.png" alt="sobrenos peludos e perdidos">
         <h1>Sobre nós</h1>
     </header>
     <header>
