@@ -1,0 +1,158 @@
+/* Estilos gerais */
+body {
+    background-color: #ffffff;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+
+}
+
+/* Estilos do menu */
+header{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #cffbff;    
+    /*valores superior e inferior, seguido de valores da direita e esquerda.*/
+    padding: 15px;
+    margin: 0px;
+    width: 1280;
+    text-align: center;
+}    
+
+.logo{
+    width: 150px;
+    height: 150px;
+    float: left;
+    cursor: pointer;
+    cursor: hand;
+    margin-top: 0%;
+}
+
+#petsinicio{
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.sobrenos{
+    width: 150px;
+    float: center;
+    cursor: pointer;
+    cursor: hand;
+}
+
+header h1 {
+    font-size: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 0px auto;
+    text-align: center;
+    color: #9900ff;
+}
+
+nav li {
+    display: inline;
+    margin-right: 50px;
+    text-align: right;    
+}
+
+nav a {
+    text-align: right;
+    text-decoration: none;
+    font-size: 25px;
+    color: rgb(255, 115, 0);
+}
+
+footer{
+    background-color: #cffbff;
+    margin: 0px;
+    bottom: 0px;
+    width: 100%;
+    height: 15px;  
+    padding: 20px;
+    text-align: center;
+    color: rgb(255, 115, 0);
+    position: fixed;
+}
+
+select{
+    margin-right: 85px;
+    border-radius: 5px;
+
+}
+
+input[type="submit"]{
+    background-color: rgb(16, 168, 2);    
+}
+
+#nomedono{
+    width: 45%;
+}
+
+#email{
+    width: 45%;
+}
+
+#msg{
+    width: 98%;
+    padding: 10px;
+    margin: 5px 0;
+}
+
+h2{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(0, 0, 0);
+}
+
+input{
+    border-radius: 5px;
+    margin-right: 60px;
+}
+
+textarea{
+    border-radius: 5px;
+}
+
+#sobrenos{
+    text-align: center;
+}
+
+form{
+    background-color: #cffbff;
+    color:black;
+    margin: 50px auto;
+    padding: 10px;
+    width: 90%;
+    border-radius: 5px;
+}
+
+.cach1{
+    background-color: #cffbff;
+    width: 320px;
+    height: 420px;
+    padding: 20px auto;
+    margin: 30px
+    
+}
+.cach1 img{
+    padding: 16px;
+    margin: auto;
+    display: block;
+}
+
+.cach1 h3{
+    
+    padding: 10px 0px 0px 10px;
+}
+
+.banner{
+        display: flex;
+       justify-content: center;
+       padding: 20px
+}
+
+
+@import url('https://fonts.googleapis.com/css?family=Titillium+Web');
+
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&display=swap');
+
+
