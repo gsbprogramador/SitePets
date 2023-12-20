@@ -5,11 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" type="text/css" href="style.css">
     <title>PeludosePerdidos</title>
-    <link rel="icon" href="img/favicon.png" sizes="16x16" type="image/png">
+    <link rel="icon" href="favicon.png" sizes="16x16" type="image/png">
 </head>
 <body>
     <header class="cabeçalho">
-        <img class="logo" src="img/logopet.png" alt="PeludosePerdidos">
+        <img class="logo" src="logopet.png" alt="PeludosePerdidos">
         <h1>Cadastro</h1>
     </header>
     <header>
@@ -76,7 +76,7 @@
               <input id="reset" type="reset" value="Limpar">
               <input id="enviar" type="submit" value="Enviar">              
         </div>
-        <img id="petsinicio" src="img/petinicio1.png" alt="cachorros e gatos">
+        <img id="petsinicio" src="petinicio1.png" alt="cachorros e gatos">
     </form>
            
     <footer>
